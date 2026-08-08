@@ -143,13 +143,10 @@ Building customizable storefront experiences with reusable sections, responsive 
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husamMousa&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husamMousa&layout=compact&hide_border=true" height="165" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=husamMousa&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=husamMousa&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
