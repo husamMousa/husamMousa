@@ -7,7 +7,7 @@ I build modern, reliable web applications with a focus on **clean interfaces, gr
 My background in software quality and Agile practices helps me look beyond just writing code — I care about building products that work well, are tested properly, and can evolve over time.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hussamousa/">
+  <a href="https://www.linkedin.com/in/hussamousa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hussammousa.me@gmail.com">
@@ -144,8 +144,8 @@ Building customizable storefront experiences with reusable sections, responsive 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hussamousa&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussamousa&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
