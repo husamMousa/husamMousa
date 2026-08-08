@@ -82,11 +82,13 @@ I also have experience working with Agile/Scrum practices, helping teams collabo
 
 ## 🚀 Things I've Built
 
-### 📅 BookForMe
+### 📅 [BookForMe](https://www.bookforme.com/)
 
 A booking platform designed to connect customers with businesses through a modern online booking experience.
 
 **Focus:** Web Application · Frontend · API Integration
+
+**Live:** https://www.bookforme.com/
 
 ---
 
