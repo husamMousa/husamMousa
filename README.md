@@ -1,38 +1,51 @@
 # Hi, I'm Hussam Mousa 👋
 
-### Frontend Developer · QA Engineer · Scrum Master
+### Building Web Applications · Frontend Development · Software Quality
 
-I build reliable, user-focused web applications and care about the entire product lifecycle — **from writing code and designing interfaces to testing quality and improving delivery.**
+I build modern, reliable web applications with a focus on **clean interfaces, great user experiences, and maintainable code**.
 
-I enjoy turning ideas into practical digital products, building scalable frontend experiences, finding bugs before users do, and helping teams deliver better software.
+My background in software quality and Agile practices helps me look beyond just writing code — I care about building products that work well, are tested properly, and can evolve over time.
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 What I Do
 
-* 🖥️ Frontend developer focused on modern web applications
-* 🧪 QA engineer passionate about software quality and reliable releases
-* 🏃 Scrum practitioner focused on collaboration and continuous improvement
-* 🌐 Experienced with e-commerce, SaaS and booking platforms
-* 🔌 Comfortable with REST APIs and backend integration
-* 🎨 Interested in UI/UX and creating polished user experiences
-* 🚀 Always learning, experimenting and building
+### 🌐 Build Web Applications
+
+I enjoy turning ideas and requirements into responsive, scalable and user-friendly web applications.
+
+My main focus is frontend development, while also working with APIs, backend services and databases when needed.
+
+### 🧪 Quality Matters
+
+My QA experience influences how I build software.
+
+I think about:
+
+* Requirements and edge cases
+* Usability
+* API behavior
+* Regression risks
+* Error handling
+* Performance
+* Maintainability
+
+### 🚀 Agile & Product Delivery
+
+I also have experience working with Agile/Scrum practices, helping teams collaborate, organize work and continuously improve their delivery process.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 ### Frontend
 
@@ -56,30 +69,30 @@ I enjoy turning ideas into practical digital products, building scalable fronten
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### QA & Engineering
+### Tools & Quality
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've Built
 
 ### 📅 BookForMe
 
-A booking platform connecting businesses and customers through a modern digital booking experience.
+A booking platform designed to connect customers with businesses through a modern online booking experience.
 
-**Focus:** Frontend Development · API Integration · Product Development
+**Focus:** Web Application · Frontend · API Integration
 
 ---
 
 ### 🛍️ Shopo
 
-A multi-tenant SaaS e-commerce platform designed to allow businesses to manage their online stores and operations.
+A multi-tenant SaaS e-commerce platform for businesses to create and manage their online stores.
 
 **Focus:** SaaS · E-commerce · Node.js · Express · MySQL
 
@@ -87,63 +100,50 @@ A multi-tenant SaaS e-commerce platform designed to allow businesses to manage t
 
 ### 🎨 E-commerce Themes
 
-Building modern, customizable storefront experiences for e-commerce platforms with reusable sections, responsive layouts and rich visual experiences.
+Building customizable storefront experiences with reusable sections, responsive layouts and modern UI patterns.
 
-**Focus:** Vue · Nuxt · JavaScript · HTML · CSS · UI/UX
-
----
-
-### 🧪 QA & API Testing
-
-Experience testing web applications and REST APIs across different products and environments.
-
-**Focus:** Test Cases · Regression Testing · API Testing · Bug Reporting · Postman
+**Focus:** Frontend · UI/UX · E-commerce · Vue · Nuxt
 
 ---
 
-## 🧠 How I Think About Software
+## 🧠 My Approach
 
 ```text
-        IDEA
+       IDEA
+        │
+        ▼
+    ┌─────────┐
+    │  BUILD  │
+    └────┬────┘
          │
          ▼
-     ┌───────┐
-     │ BUILD │
-     └───┬───┘
+    ┌─────────┐
+    │  TEST   │
+    └────┬────┘
          │
          ▼
-     ┌───────┐
-     │ TEST  │
-     └───┬───┘
+    ┌─────────┐
+    │ IMPROVE │
+    └────┬────┘
          │
          ▼
-     ┌───────┐
-     │IMPROVE│
-     └───┬───┘
-         │
-         ▼
-     ┌───────┐
-     │DELIVER│
-     └───┬───┘
+    ┌─────────┐
+    │ DELIVER │
+    └────┬────┘
          │
          └──────────────► REPEAT
 ```
 
-I believe good software isn't just about writing code.
-
-It's about building the **right thing**, testing it properly, understanding the user, and continuously improving how the team delivers it.
+> **Build software that works.
+> Build software that lasts.**
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
 </p>
 
 ---
@@ -151,21 +151,21 @@ It's about building the **right thing**, testing it properly, understanding the 
 ## 🌱 Currently Exploring
 
 * Advanced frontend architecture
+* Full-stack web development
 * Test automation
-* Backend development with Node.js & Laravel
 * SaaS architecture
 * UI/UX systems
 * Open-source contributions
-* AI-assisted software development
+* AI-assisted development
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing:
+I'm interested in building and discussing:
 
-**Frontend Development · QA · SaaS · E-commerce · UI/UX · Open Source · Agile**
+**Web Applications · Frontend Development · SaaS · E-commerce · Software Quality · Open Source**
 
 <p align="center">
-  <b>Build. Test. Lead. Repeat.</b>
+  <b>Build. Test. Improve. Repeat.</b>
 </p>
