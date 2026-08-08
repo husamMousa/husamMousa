@@ -148,6 +148,10 @@ Building customizable storefront experiences with reusable sections, responsive 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussamousa&layout=compact&hide_border=true" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hussamousa&hide_border=true" />
+</p>
+
 ---
 
 ## 🌱 Currently Exploring
