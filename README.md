@@ -7,10 +7,10 @@ I build modern, reliable web applications with a focus on **clean interfaces, gr
 My background in software quality and Agile practices helps me look beyond just writing code — I care about building products that work well, are tested properly, and can evolve over time.
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hussamousa/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hussammousa.me@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
