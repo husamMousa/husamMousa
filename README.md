@@ -143,8 +143,6 @@ Building customizable storefront experiences with reusable sections, responsive 
 
 ## 📈 GitHub Activity
 
-## 📈 GitHub Activity
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=husamMousa&hide_border=true" alt="GitHub Streak" />
 </p>
